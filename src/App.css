@@ -1,0 +1,92 @@
+.secure {
+  height: auto;
+  background-image: url(./components/images/bg.jpg);
+  background-size: cover;
+  margin: 5px;
+  align-items: center;
+  color: white;
+}
+.labelBg {
+  height: auto;
+  background-size: cover;
+  margin: 5px;
+  align-items: center;
+  color: white;
+}
+
+.secure .head-text {
+  text-align: center;
+}
+
+.secure .cards {
+  display: grid;
+}
+
+li {
+  font-style: italic;
+  text-size-adjust: 2px;
+  size: cover;
+  text-decoration: none;
+}
+
+/* video player*/
+
+.card {
+  width: 330px;
+}
+
+.cardVideo {
+  align-items: center;
+}
+
+h3,
+h2,
+h1,
+p {
+  text-align: center;
+}
+
+.myEvents,
+.myList,
+.myForms {
+  text-align: center;
+}
+
+.eventPicture,
+.listPicture {
+  width: auto;
+  height: 20%;
+  white-space: normal;
+}
+
+.headerBg {
+  inset-inline: inherit;
+}
+
+li {
+  font-size: 13px;
+  text-decoration: none;
+  list-style: none;
+}
+
+.information {
+  align-items: flex-start;
+}
+
+.listPicture {
+  transition: transform 0.2s;
+}
+
+.listPicture:hover {
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1);
+}
+
+.group {
+  text-align: center;
+}
+.group1 {
+  border: none;
+  border-bottom: 1px solid #757575;
+}
