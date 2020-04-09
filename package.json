@@ -2,7 +2,7 @@
   "name": "my-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ngcobo950.github.io/newspace/. ",
+  "homepage": "https://ngcobo950.github.io/Hourspace/. ",
   "dependencies": {
     "bootstrap": "^4.4.1",
     "react": "^16.13.0",
